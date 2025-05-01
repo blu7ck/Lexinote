@@ -19,6 +19,7 @@ coverage/
 
 # Supabase
 .supabase/
+supabase/
 
 # Tauri (desktop hedefliyorsan)
 src-tauri/target/
