@@ -1,0 +1,44 @@
+##WORD_LIST yapısı mainapp ekranında
+
+<ul class="list bg-base-100 rounded-box shadow-md">
+  
+	
+	<li class="list-row">
+	  <div class="text-4xl font-thin opacity-30 tabular-nums">Harf Klasörü(ENUM LETTER)</div>
+	  <div><img class="size-10 rounded-box" src="WORD IMG URL"/></div>
+	  <div class="list-col-grow">
+		<div>Başlık</div>
+		<div class="text-xs uppercase font-semibold opacity-60">Ekleyen</div>
+	  </div>
+	  <button class="btn btn-square btn-ghost">
+		<svg class="size-[1.2em]" xmlns="DÜZENLE BUTONU" viewBox="0 0 24 24"><g stroke-linejoin="round" stroke-linecap="round" stroke-width="2" fill="none" stroke="currentColor"><path d="M6 3L20 12 6 21 6 3z"></path></g></svg>
+	  </button>
+	</li>
+	
+	<li class="list-row">
+	  <div class="text-4xl font-thin opacity-30 tabular-nums">Harf Klasörü(ENUM LETTER)</div>
+	  <div><img class="size-10 rounded-box" src="WORD IMG URL"/></div>
+	  <div class="list-col-grow">
+		<div>Ellie Beilish</div>
+		<div class="text-xs uppercase font-semibold opacity-60">Ekleyenr</div>
+	  </div>
+	  <button class="btn btn-square btn-ghost">
+		<svg class="size-[1.2em]" xmlns="DÜZENLE BUTONU" viewBox="0 0 24 24"><g stroke-linejoin="round" stroke-linecap="round" stroke-width="2" fill="none" stroke="currentColor"><path d="M6 3L20 12 6 21 6 3z"></path></g></svg>
+	  </button>
+	</li>
+	
+	<li class="list-row">
+	  <div class="text-4xl font-thin opacity-30 tabular-nums">Harf Klasörü(ENUM LETTER)</div>
+	  <div><img class="size-10 rounded-box" src="WORD IMG URL"/></div>
+	  <div class="list-col-grow">
+		<div>Sabrino Gardener</div>
+		<div class="text-xs uppercase font-semibold opacity-60">Ekleyen</div>
+	  </div>
+	  <button class="btn btn-square btn-ghost">
+		<svg class="size-[1.2em]" xmlns="DÜZENLE BUTONU" viewBox="0 0 24 24"><g stroke-linejoin="round" stroke-linecap="round" stroke-width="2" fill="none" stroke="currentColor"><path d="M6 3L20 12 6 21 6 3z"></path></g></svg>
+	  </button>
+	</li>
+	
+  </ul>
+
+  
